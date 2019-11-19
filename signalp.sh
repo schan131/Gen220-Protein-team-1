@@ -17,6 +17,7 @@ if [ -e "psyr.txt" ]; then
 else
  curl -0 http://www.pseudomonas.com/downloads/pseudomonas/pgd_r_19_1/Pseudomonas_syringae_pv_tomato_DC3000_111/Pseudomonas_syringae_pv_tomato_DC3000_111.faa.gz > psyr.txt.gz
  gunzip psyr.txt.gz
+fi
 signalp -c 30 -M 15 -t gram- psyr.txt > psyr.pred.txt
 
 #P.fluorescens SBW25 amino acid
@@ -25,5 +26,6 @@ if [ -e "pflr.txt" ]; then
 else
  curl -0 http://www.pseudomonas.com/downloads/pseudomonas/pgd_r_19_1/Pseudomonas_fluorescens_SBW25_116/Pseudomonas_fluorescens_SBW25_116.faa.gz > pflr.txt.gz
  gunzip pflr.txt.gz
+fi
 signalp -c 30 -M 15 -t gram- pflr.txt > pflr.pred.txt
 
