@@ -3,7 +3,8 @@
 
 import os
 
+# Make a new directory called Ecoli_genomes 
+# and place FASTA protein sequences in it
+
 # Run OrthoFinder on our E. coli dataset
-# At the moment, the default build on the cluster lacks the 
-# dependencies to do tree building with iqtree.
 os.system("orthofinder -f Ecoli_genomes")
