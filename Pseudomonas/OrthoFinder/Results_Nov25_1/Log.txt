@@ -1,0 +1,13 @@
+2019-11-25 18:42:21 : Started OrthoFinder version 2.3.7
+Command Line: /opt/linux/centos/7.x/x86_64/pkgs/orthofinder/2.3.7/orthofinder.py -a 8 -f Pseudomonas
+
+WorkingDirectory_Base: /rhome/schan131/Gen220-Protein-team-1/Pseudomonas/OrthoFinder/Results_Nov25_1/WorkingDirectory/
+
+Species used: 
+0: paer.final.fasta
+1: pflr.final.fasta
+2: psyr.final.fasta
+
+FN_Orthogroups: /rhome/schan131/Gen220-Protein-team-1/Pseudomonas/OrthoFinder/Results_Nov25_1/WorkingDirectory/clusters_OrthoFinder_I1.5.txt_id_pairs.txt
+WorkingDirectory_Trees: /rhome/schan131/Gen220-Protein-team-1/Pseudomonas/OrthoFinder/Results_Nov25_1/WorkingDirectory/
+2019-11-25 18:42:51 : OrthoFinder run completed
