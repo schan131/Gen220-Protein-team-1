@@ -1,0 +1,1 @@
+((paer_final_PA3938:0.018682,(psyr_final_PSPTO_5319:0.074439,psyr_final_PSPTO_4238:2.11116)n2:0.234574)n1:0.208806,pflr_final_PFLU0255:0.075483)n0;

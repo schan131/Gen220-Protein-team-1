@@ -1,0 +1,1 @@
+(psyr_final_PSPTO_1824:0.074092,(pflr_final_PFLU4767:0.268228,(paer_final_PA1233:0.519991,(paer_final_PA0874:0.202918,paer_final_PA3412:0.444124)n3:0.167021)n2:0.098656)n1:0.074092)n0;

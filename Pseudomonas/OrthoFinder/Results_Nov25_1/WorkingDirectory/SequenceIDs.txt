@@ -1,0 +1,445 @@
+0_0: PA0026 ref|NP_248716.1|gi|15595224| phospholipase C, PlcB
+0_1: PA0039 ref|NP_248729.1|gi|15595237| hypothetical protein
+0_2: PA0040 ref|NP_248730.1|gi|15595238| conserved hypothetical protein
+0_3: PA0050 ref|NP_248740.1|gi|15595248| hypothetical protein
+0_4: PA0162 ref|NP_248852.1|gi|15595360| histidine porin OpdC
+0_5: PA0261 ref|NP_248952.1|gi|15595458| Type 6 lipase immunity, Tli3
+0_6: PA0270 ref|NP_248961.1|gi|15595467| hypothetical protein
+0_7: PA0283 ref|NP_248974.1|gi|15595480| sulfate-binding protein precursor
+0_8: PA0300 ref|NP_248991.1|gi|15595497| polyamine transport protein
+0_9: PA0347 ref|NP_249038.1|gi|15595544| glycerophosphoryl diester phosphodiesterase, periplasmic
+0_10: PA0359 ref|NP_249050.1|gi|15595556| hypothetical protein
+0_11: PA0423 ref|NP_249114.1|gi|15595620| PasP
+0_12: PA0457 ref|NP_249148.1|gi|15595654| hypothetical protein
+0_13: PA0460 ref|NP_249151.1|gi|15595657| hypothetical protein
+0_14: PA0604 ref|NP_249295.1|gi|15595801| AgtB
+0_15: PA0688 ref|NP_249379.1|gi|15595885| low-molecular-weight alkaline phosphatase A, LapA
+0_16: PA0696 ref|NP_249387.1|gi|15595893| hypothetical protein
+0_17: PA0732 ref|NP_249423.1|gi|15595929| hypothetical protein
+0_18: PA0740 ref|NP_249431.1|gi|15595937| SDS hydrolase SdsA1
+0_19: PA0764 ref|NP_249455.1|gi|15595961| negative regulator for alginate biosynthesis MucB
+0_20: PA0874 ref|NP_249565.1|gi|15596071| hypothetical protein
+0_21: PA0884 ref|NP_249575.1|gi|15596081| probable C4-dicarboxylate-binding periplasmic protein
+0_22: PA0912 ref|NP_249603.1|gi|15596109| hypothetical protein
+0_23: PA0972 ref|NP_249663.1|gi|15596169| TolB protein
+0_24: PA0981 ref|NP_249672.1|gi|15596178| hypothetical protein
+0_25: PA1084 ref|NP_249775.1|gi|15596281| flagellar P-ring protein precursor FlgI
+0_26: PA1106 ref|NP_249797.1|gi|15596303| hypothetical protein
+0_27: PA1114 ref|NP_249805.1|gi|15596311| hypothetical protein
+0_28: PA1166 ref|NP_249857.1|gi|15596363| hypothetical protein
+0_29: PA1171 ref|NP_249862.1|gi|15596368| SltB2
+0_30: PA1173 ref|NP_249864.1|gi|15596370| cytochrome c-type protein NapB precursor
+0_31: PA1178 ref|NP_249869.1|gi|15596375| PhoP/Q and low Mg2+ inducible outer membrane protein H1 precursor
+0_32: PA1233 ref|NP_249924.1|gi|15596430| hypothetical protein
+0_33: PA1324 ref|NP_250015.1|gi|15596521| hypothetical protein
+0_34: PA1338 ref|NP_250029.1|gi|15596535| gamma-glutamyltranspeptidase precursor
+0_35: PA1343 ref|NP_250034.1|gi|15596540| hypothetical protein
+0_36: PA1383 ref|NP_250074.1|gi|15596580| hypothetical protein
+0_37: PA1445 ref|NP_250136.1|gi|15596642| flagellar protein FliO
+0_38: PA1493 ref|NP_250184.1|gi|15596690| sulfate-binding protein of ABC transporter
+0_39: PA1592 ref|NP_250283.1|gi|15596789| hypothetical protein
+0_40: PA1680 ref|NP_250371.1|gi|15596877| hypothetical protein
+0_41: PA1726 ref|NP_250417.1|gi|15596923| periplasmic beta-glucosidase
+0_42: PA1761 ref|NP_250452.1|gi|15596958| hypothetical protein
+0_43: PA1811 ref|NP_250502.1|gi|15597008| NppA1
+0_44: PA1845 ref|NP_250536.1|gi|15597042| Tsi1
+0_45: PA1863 ref|NP_250554.1|gi|15597060| molybdate-binding periplasmic protein precursor ModA
+0_46: PA1981 ref|NP_250671.1|gi|15597177| hypothetical protein
+0_47: PA2077 ref|NP_250767.1|gi|15597273| oleate 10S-lipoxygenase
+0_48: PA2128 ref|NP_250818.1|gi|15597324| fimbrial subunit CupA1
+0_49: PA2257 ref|NP_250947.1|gi|15597453| paerucumarin biosynthesis protein PvcD
+0_50: PA2266 ref|NP_250956.1|gi|15597462| probable cytochrome c precursor
+0_51: PA2336 ref|NP_251026.1|gi|15597532| hypothetical protein
+0_52: PA2349 ref|NP_251039.1|gi|15597545| conserved hypothetical protein
+0_53: PA2395 ref|NP_251085.1|gi|15597591| PvdO
+0_54: PA2410 ref|NP_251100.1|gi|15597606| FpvF
+0_55: PA2433 ref|NP_251123.1|gi|15597629| hypothetical protein
+0_56: PA2452 ref|NP_251142|gi|15597648| hypothetical protein
+0_57: PA2464 ref|NP_251154.1|gi|15597660| hypothetical protein
+0_58: PA2482 ref|NP_251172.1|gi|15597678| probable cytochrome c
+0_59: PA2506 ref|NP_251196.1|gi|15597702| hypothetical protein
+0_60: PA2569 ref|NP_251259.1|gi|15597765| hypothetical protein
+0_61: PA2592 ref|NP_251282.1|gi|15597788| probable periplasmic spermidine/putrescine-binding protein
+0_62: PA2614 ref|NP_251304.1|gi|15597810| lipoprotein localization protein LolA
+0_63: PA2750 ref|NP_251440.1|gi|15597946| hypothetical protein
+0_64: PA2755 ref|NP_251445.1|gi|15597951| ecotin precursor
+0_65: PA2759 ref|NP_251449.1|gi|15597955| hypothetical protein
+0_66: PA2760 ref|NP_251450.1|gi|15597956| OprQ
+0_67: PA2783 ref|NP_251473.1|gi|15597979| Mep72
+0_68: PA2787 ref|NP_251477.1|gi|15597983| carboxypeptidase G2 precursor
+0_69: PA2816 ref|NP_251506.1|gi|15598012| hypothetical protein
+0_70: PA2939 ref|NP_251629.1|gi|15598135| probable aminopeptidase
+0_71: PA3003 ref|NP_251693.1|gi|15598199| hypothetical protein
+0_72: PA3021 ref|NP_251711.1|gi|15598217| hypothetical protein
+0_73: PA3053 ref|NP_251743.1|gi|15598249| probable hydrolytic enzyme
+0_74: PA3075 ref|NP_251765.1|gi|15598271| hypothetical protein
+0_75: PA3076 ref|NP_251766.1|gi|15598272| hypothetical protein
+0_76: PA3140 ref|NP_251830.1|gi|15598336| hypothetical protein
+0_77: PA3178 ref|NP_251868.1|gi|15598374| hypothetical protein
+0_78: PA3203 ref|NP_251893.1|gi|15598399| hypothetical protein
+0_79: PA3205 ref|NP_251895.1|gi|15598401| hypothetical protein
+0_80: PA3224 ref|NP_251914.1|gi|15598420| hypothetical protein
+0_81: PA3227 ref|NP_251917.1|gi|15598423| peptidyl-prolyl cis-trans isomerase A
+0_82: PA3239 ref|NP_251929.1|gi|15598435| conserved hypothetical protein
+0_83: PA3274 ref|NP_251964.1|gi|15598470| hypothetical protein
+0_84: PA3280 ref|NP_251970.1|gi|15598476| Pyrophosphate-specific outer membrane porin OprO precursor
+0_85: PA3367 ref|NP_252057.1|gi|15598563| hypothetical protein
+0_86: PA3404 ref|NP_252094.1|gi|15598600| probable outer membrane protein precursor
+0_87: PA3412 ref|NP_252102.1|gi|15598608| hypothetical protein
+0_88: PA3421 ref|NP_252111.1|gi|15598617| conserved hypothetical protein
+0_89: PA3462 ref|NP_252152.1|gi|15598658| probable sensor/response regulator hybrid
+0_90: PA3497 ref|NP_252187.1|gi|15598693| hypothetical protein
+0_91: PA3546 ref|NP_252236.1|gi|15598742| alginate biosynthesis protein AlgX
+0_92: PA3576 ref|NP_252266.1|gi|15598772| hypothetical protein
+0_93: PA3586 ref|NP_252276.1|gi|15598782| probable hydrolase
+0_94: PA3610 ref|NP_252300.1|gi|15598806| polyamine transport protein PotD
+0_95: PA3611 ref|NP_252301.1|gi|15598807| hypothetical protein
+0_96: PA3619 ref|NP_252309.1|gi|15598815| hypothetical protein
+0_97: PA3675 ref|NP_252365.1|gi|15598871| hypothetical protein
+0_98: PA3737 ref|NP_252426.1|gi|15598932| thiol:disulfide interchange protein DsbC
+0_99: PA3756 ref|NP_252445.1|gi|15598951| hypothetical protein
+0_100: PA3785 ref|NP_252474.1|gi|15598980| conserved hypothetical protein
+0_101: PA3835 ref|NP_252524.1|gi|15599030| hypothetical protein
+0_102: PA3858 ref|NP_252547.1|gi|15599053| probable amino acid-binding protein
+0_103: PA3931 ref|NP_252620.1|gi|15599126| conserved hypothetical protein
+0_104: PA3938 ref|NP_252627.1|gi|15599133| probable periplasmic taurine-binding protein precursor
+0_105: PA4067 ref|NP_252756.1|gi|15599262| Outer membrane protein OprG precursor
+0_106: PA4168 ref|NP_252857.1|gi|15599363| second ferric pyoverdine receptor FpvB
+0_107: PA4175 ref|NP_252864.1|gi|15599370| protease IV
+0_108: PA4384 ref|NP_253074.1|gi|15599580| hypothetical protein
+0_109: PA4390 ref|NP_253080.1|gi|15599586| hypothetical protein
+0_110: PA4437 ref|NP_253127.1|gi|15599633| hypothetical protein
+0_111: PA4487 ref|NP_253177.1|gi|15599683| MagF
+0_112: PA4578 ref|NP_253268.1|gi|15599774| hypothetical protein
+0_113: PA4579 ref|NP_253269.1|gi|15599775| hypothetical protein
+0_114: PA4590 ref|NP_253280.1|gi|15599786| protein activator
+0_115: PA4607 ref|NP_253297.1|gi|15599803| hypothetical protein
+0_116: PA4616 ref|NP_253306.1|gi|15599812| probable c4-dicarboxylate-binding protein
+0_117: PA4619 ref|NP_253309.1|gi|15599815| probable c-type cytochrome
+0_118: PA4661 ref|NP_253350.1|gi|15599856| Lipid A 3-O-deacylase
+0_119: PA4681 ref|NP_253370.1|gi|15599876| hypothetical protein
+0_120: PA4697 ref|NP_253385.1|gi|15599891| hypothetical protein
+0_121: PA4736 ref|NP_253424.1|gi|15599930| hypothetical protein
+0_122: PA4739 ref|NP_253427.1|gi|15599933| conserved hypothetical protein
+0_123: PA4813 ref|NP_253500.1|gi|15600006| lipase LipC
+0_124: PA4881 ref|NP_253568.1|gi|15600074| hypothetical protein
+0_125: PA4884 ref|NP_253571.1|gi|15600077| hypothetical protein
+0_126: PA4894 ref|NP_253581.1|gi|15600087| hypothetical protein
+0_127: PA4922 ref|NP_253609.1|gi|15600115| azurin precursor
+0_128: PA4974 ref|NP_253661.1|gi|15600167| probable outer membrane protein precursor
+0_129: PA5033 ref|NP_253720.1|gi|15600226| hypothetical protein
+0_130: PA5096 ref|NP_253783.1|gi|15600289| probable binding protein component of ABC transporter
+0_131: PA5103 ref|NP_253790.1|gi|15600296| PuuR
+0_132: PA5112 ref|NP_253799.1|gi|15600305| esterase EstA
+0_133: PA5120 ref|NP_253807.1|gi|15600313| hypothetical protein
+0_134: PA5122 ref|NP_253809.1|gi|15600315| hypothetical protein
+0_135: PA5133 ref|NP_253820.1|gi|15600326| conserved hypothetical protein
+0_136: PA5134 ref|NP_253821.1|gi|15600327| carboxyl-terminal processing protease, CtpA
+0_137: PA5153 ref|NP_253840.1|gi|15600346| amino acid (lysine/arginine/ornithine/histidine/octopine) ABC transporter periplasmic binding protein
+0_138: PA5183 ref|NP_253870.1|gi|15600376| hypothetical protein
+0_139: PA5217 ref|NP_253904.1|gi|15600410| probable binding protein component of ABC iron transporter
+0_140: PA5233 ref|NP_253920.1|gi|15600426| hypothetical protein
+0_141: PA5317 ref|NP_254004.1|gi|15600510| probable binding protein component of ABC dipeptide transporter
+0_142: PA5378 ref|NP_254065.1|gi|15600571| CbcX
+0_143: PA5388 ref|NP_254075.1|gi|15600581| CaiX
+0_144: PA5461 ref|NP_254148.1|gi|15600654| hypothetical protein
+0_145: PA5462 ref|NP_254149.1|gi|15600655| hypothetical protein
+0_146: PA5489 ref|NP_254176.1|gi|15600682| thiol:disulfide interchange protein DsbA
+0_147: PA5490 ref|NP_254177.1|gi|15600683| cytochrome c4 precursor
+0_148: PA5491 ref|NP_254178.1|gi|15600684| probable cytochrome
+0_149: PA5494 ref|NP_254181.1|gi|15600687| hypothetical protein
+0_150: PA5505 ref|NP_254192.1|gi|15600698| probable TonB-dependent receptor
+0_151: PA5526 ref|NP_254213.1|gi|15600719| hypothetical protein
+0_152: PA5537 ref|NP_254224.1|gi|15600730| hypothetical protein
+0_153: PA5542 ref|NP_254229.1|gi|15600735| Pseudomonas imipenem beta-lactamase PIB-1
+0_154: PA0007 ref|NP_064727.1|gi|15595205| hypothetical protein
+0_155: PA0020 ref|NP_248710.1|gi|15595218| T4P secretin-associated protein TsaP
+1_0: PFLU0040 ref|YP_002869737.1|gi|229587618| hypothetical protein
+1_1: PFLU0053 ref|YP_002869750.1|gi|229587631| alcohol dehydrogenase cytochrome C subunit
+1_2: PFLU0068 ref|YP_002869765.1|gi|229587646| putative D-methionine ABC transporter substrate-binding protein
+1_3: PFLU0078 ref|YP_002869775.1|gi|229587656| hypothetical protein
+1_4: PFLU0083 ref|YP_002869780.1|gi|229587661| thiol:disulfide interchange protein
+1_5: PFLU0107 ref|YP_002869803.1|gi|229587684| hypothetical protein
+1_6: PFLU0144 ref|YP_002869840.1|gi|229587721| outer membrane N-deacetylase
+1_7: PFLU0215 ref|YP_002869908.1|gi|229587789| hypothetical protein
+1_8: PFLU0239 ref|YP_002869923.1|gi|229587804| putative amino acid ABC transporter exported protein
+1_9: PFLU0255 ref|YP_002869939.1|gi|229587820| taurine ABC transporter substrate-binding periplasmic protein
+1_10: PFLU0277 ref|YP_002869960.1|gi|229587841| hypothetical protein
+1_11: PFLU0296 ref|YP_002869979.1|gi|229587860| outer membrane protein, oprE3
+1_12: PFLU0303 ref|YP_002869984.1|gi|229587865| endo-1,4-D-glucanase
+1_13: PFLU0304 ref|YP_002869985.1|gi|229587866| cellulose synthase operon protein C
+1_14: PFLU0313 ref|YP_002869994.1|gi|229587875| putative amino acid ABC transporter membrane protein
+1_15: PFLU0334 ref|YP_002870014.1|gi|229587895| hypothetical protein
+1_16: PFLU0336 ref|YP_002870016.1|gi|229587897| putative peptidase
+1_17: PFLU0346 ref|YP_002870026.1|gi|229587907| chorismate mutase
+1_18: PFLU0363 ref|YP_002870043.1|gi|229587924| putative histidine transporter substrate-binding protein
+1_19: PFLU0545 ref|YP_002870216.1|gi|229588097| azurin
+1_20: PFLU0560 ref|YP_002870230.1|gi|229588111| putative urease/membrane protein
+1_21: PFLU0564 ref|YP_002870234.1|gi|229588115| hypothetical protein
+1_22: PFLU0572 ref|YP_002870242.1|gi|229588123| phosphate starvation-inducible protein
+1_23: PFLU0591 ref|YP_002870261.1|gi|229588142| putative iron ABC transporter periplasmic substrate-binding protein
+1_24: PFLU0593 ref|YP_002870263.1|gi|229588144| putative TonB-dependent membrane receptor
+1_25: PFLU0597 ref|YP_002870267.1|gi|229588148| hypothetical protein
+1_26: PFLU0659 ref|YP_002870326.1|gi|229588207| hypothetical protein
+1_27: PFLU0735 ref|YP_002870400.1|gi|229588281| hypothetical protein
+1_28: PFLU0824 ref|YP_002870488.1|gi|229588369| putative outer membrane porin
+1_29: PFLU0843 ref|YP_002870507.1|gi|229588388| putative ubiquinol--cytochrome C reductase, cytochrome C1
+1_30: PFLU0957 ref|YP_002870619.1|gi|229588500| hypothetical protein
+1_31: PFLU0993 ref|YP_002870653.1|gi|229588534| putative polysaccharide deacetylase
+1_32: PFLU1008 ref|YP_002870668.1|gi|229588549| hypothetical protein
+1_33: PFLU1014 ref|YP_002870674.1|gi|229588555| hypothetical protein
+1_34: PFLU1082 ref|YP_002870741.1|gi|229588622| hypothetical protein
+1_35: PFLU1091 ref|YP_002870751.1|gi|229588632| putative fimbrial protein
+1_36: PFLU1120 ref|YP_002870779.1|gi|229588660| putative exported hydrolase
+1_37: PFLU1213 ref|YP_002870869.1|gi|229588750| putative ABC transporter substrate-binding protein
+1_38: PFLU1236 ref|YP_002870889.1|gi|229588770| putative lipoprotein
+1_39: PFLU1325 ref|YP_002870975.1|gi|229588856| hypothetical protein
+1_40: PFLU1469 ref|YP_002871115.1|gi|229588996| sigma factor regulatory protein
+1_41: PFLU1506 ref|YP_002871148.1|gi|229589029| putative hydrolase
+1_42: PFLU1525 ref|YP_002871167.1|gi|229589048| putative lipoprotein
+1_43: PFLU1549 ref|YP_002871191.1|gi|229589072| putative lytic transglycosylase
+1_44: PFLU1568 ref|YP_002871209.1|gi|229589090| hypothetical protein
+1_45: PFLU1581 ref|YP_002871222.1|gi|229589103| hypothetical protein
+1_46: PFLU1607 ref|YP_002871248.1|gi|229589129| putative fimbrial-like protein
+1_47: PFLU1608 ref|YP_002871249.1|gi|229589130| putative fimbrial-like protein
+1_48: PFLU1611 ref|YP_002871252.1|gi|229589133| putative fimbrial-like chaperone protein
+1_49: PFLU1612 ref|YP_002871253.1|gi|229589134| putative fimbrial protein
+1_50: PFLU1617 ref|YP_002871258.1|gi|229589139| hypothetical protein
+1_51: PFLU1699 ref|YP_002871337.1|gi|229589218| putative acyl-CoA thioesterase
+1_52: PFLU1715 ref|YP_002871353.1|gi|229589234| putative exported lipase
+1_53: PFLU1765 ref|YP_002871402.1|gi|229589283| cytochrome C biogenesis protein
+1_54: PFLU1796 ref|YP_002871432.1|gi|229589313| sulfate ABC transporter substrate-binding protein
+1_55: PFLU1808 ref|YP_002871444.1|gi|229589325| putative lipoprotein
+1_56: PFLU1809 ref|YP_002871445.1|gi|229589326| hypothetical protein
+1_57: PFLU1834 ref|YP_002871470.1|gi|229589351| putative exported hydrolase
+1_58: PFLU1890 ref|YP_002871524.1|gi|229589405| hypothetical protein
+1_59: PFLU1896 ref|YP_002871530.1|gi|229589411| hypothetical protein
+1_60: PFLU1935 ref|YP_002871568.1|gi|229589449| hypothetical protein
+1_61: PFLU2039 ref|YP_002871659.1|gi|229589540| putative ABC transporter substrate-binding protein
+1_62: PFLU2148 ref|YP_002871764.1|gi|229589645| putative lipoprotein
+1_63: PFLU2167 ref|YP_002871782.1|gi|229589663| putative lipoprotein
+1_64: PFLU2199 ref|YP_002871812.1|gi|229589693| putative carboxypeptidase
+1_65: PFLU2268 ref|YP_002871876.1|gi|229589757| putative exported rhamnogalacturonase
+1_66: PFLU2300 ref|YP_002871908.1|gi|229589789| D-xylose ABC transport syste, substrate-binding periplasmic protein
+1_67: PFLU2343 ref|YP_002871948.1|gi|229589829| putative polyamine ABC transporter exported protein
+1_68: PFLU2409 ref|YP_002872011.1|gi|229589892| hypothetical protein
+1_69: PFLU2411 ref|YP_002872013.1|gi|229589894| hypothetical protein
+1_70: PFLU2427 ref|YP_002872028.1|gi|229589909| putative alkaline phosphatase
+1_71: PFLU2446 ref|YP_002872044.1|gi|229589925| putative esterase
+1_72: PFLU2447 ref|YP_002872045.1|gi|229589926| hypothetical protein
+1_73: PFLU2473 ref|YP_002872070.1|gi|229589951| putative transporter-like exported protein
+1_74: PFLU2522 ref|YP_002872112.1|gi|229589993| hypothetical protein
+1_75: PFLU2548 ref|YP_002872137.1|gi|229590018| hypothetical protein
+1_76: PFLU2564 ref|YP_002872151.1|gi|229590032| putrescine ABC transporter substrate-binding protein
+1_77: PFLU2583 ref|YP_002872170.1|gi|229590051| putative rhizopine-binding ABC transporter protein
+1_78: PFLU2616 ref|YP_002872203.1|gi|229590084| hypothetical protein
+1_79: PFLU2639 ref|YP_002872226.1|gi|229590107| putative substrate-binding transport protein
+1_80: PFLU2640 ref|YP_002872227.1|gi|229590108| putative substrate-binding transport protein
+1_81: PFLU2663 ref|YP_002872247.1|gi|229590128| putative exported fatty acid cis/trans isomerase
+1_82: PFLU2686 ref|YP_002872270.1|gi|229590151| hypothetical protein
+1_83: PFLU2697 ref|YP_002872280.1|gi|229590161| hypothetical protein
+1_84: PFLU2699 ref|YP_002872282.1|gi|229590163| hypothetical protein
+1_85: PFLU2700 ref|YP_002872283.1|gi|229590164| hypothetical protein
+1_86: PFLU2721 ref|YP_002872304.1|gi|229590185| putative efflux system inner membrane protein
+1_87: PFLU2726 ref|YP_002872309.1|gi|229590190| hypothetical protein
+1_88: PFLU2738 ref|YP_002872320.1|gi|229590201| hypothetical protein
+1_89: PFLU2914 ref|YP_002872492.1|gi|229590373| hypothetical protein
+1_90: PFLU2918 ref|YP_002872496.1|gi|229590377| putative lipoprotein
+1_91: PFLU2940 ref|YP_002872518.1|gi|229590399| hypothetical protein
+1_92: PFLU2971 ref|YP_002872551.1|gi|229590432| molybdate-binding periplasmic protein
+1_93: PFLU3014 ref|YP_002872594.1|gi|229590475| hypothetical protein
+1_94: PFLU3015 ref|YP_002872595.1|gi|229590476| putative cell envelope protein
+1_95: PFLU3125 ref|YP_002872700.1|gi|229590581| hypothetical protein
+1_96: PFLU3142 ref|YP_002872717.1|gi|229590598| putative outer membrane secretion protein
+1_97: PFLU3150 ref|YP_002872725.1|gi|229590606| putative periplasmic putrescine-binding protein permease
+1_98: PFLU3318 ref|YP_002872889.1|gi|229590770| putative phosphate-binding periplasmic protein
+1_99: PFLU3360 ref|YP_002872929.1|gi|229590810| hypothetical protein
+1_100: PFLU3362 ref|YP_002872931.1|gi|229590812| putative hydrolase
+1_101: PFLU3459 ref|YP_002873024.1|gi|229590905| hypothetical protein
+1_102: PFLU3470 ref|YP_002873035.1|gi|229590916| hypothetical protein
+1_103: PFLU3498 ref|YP_002873062.1|gi|229590943| hypothetical protein
+1_104: PFLU3511 ref|YP_002873075.1|gi|229590956| hypothetical protein
+1_105: PFLU3577 ref|YP_002873139.1|gi|229591020| putative periplasmic solute-binding protein
+1_106: PFLU3592 ref|YP_002873154.1|gi|229591035| putative ribonuclease
+1_107: PFLU3636 ref|YP_002873198.1|gi|229591079| putative oxidoreductase
+1_108: PFLU3721 ref|YP_002873276.1|gi|229591157| putative aliphatic sulfonates binding protein
+1_109: PFLU3800 ref|YP_002873354.1|gi|229591235| outer-membrane lipoprotein carrier protein
+1_110: PFLU3816 ref|YP_002873370.1|gi|229591251| hypothetical protein
+1_111: PFLU3841 ref|YP_002873395.1|gi|229591276| hypothetical protein
+1_112: PFLU3980 ref|YP_002873531.1|gi|229591412| hypothetical protein
+1_113: PFLU4087 ref|YP_002873638.1|gi|229591519| alkanesulfonate transporter substrate-binding subunit
+1_114: PFLU4099 ref|YP_002873649.1|gi|229591530| putative ABC transporter substrate-binding protein
+1_115: PFLU4149 ref|YP_002873699.1|gi|229591580| hypothetical protein
+1_116: PFLU4154 ref|YP_002873704.1|gi|229591585| putative inosine-uridine preferring nucleoside hydrolase
+1_117: PFLU4163 ref|YP_002873713.1|gi|229591594| DNA-specific endonuclease I
+1_118: PFLU4251 ref|YP_002873796.1|gi|229591677| hypothetical protein
+1_119: PFLU4252 ref|YP_002873797.1|gi|229591678| hypothetical protein
+1_120: PFLU4278 ref|YP_002873823.1|gi|229591704| hypothetical protein
+1_121: PFLU4382 ref|YP_002873917.1|gi|229591798| thiol:disulfide interchange protein
+1_122: PFLU4426 ref|YP_002873960.1|gi|229591841| flagellar protein FliO
+1_123: PFLU4501 ref|YP_002874031.1|gi|229591912| hypothetical protein
+1_124: PFLU4525 ref|YP_002874054.1|gi|229591935| hypothetical protein
+1_125: PFLU4533 ref|YP_002874062.1|gi|229591943| peptidyl-prolyl cis-trans isomerase A
+1_126: PFLU4663 ref|YP_002874184.1|gi|229592065| putative cytochrome C-like protein
+1_127: PFLU4688 ref|YP_002874209.1|gi|229592090| hypothetical protein
+1_128: PFLU4767 ref|YP_002874284.1|gi|229592165| hypothetical protein
+1_129: PFLU4789 ref|YP_002874303.1|gi|229592184| putative glycerophosphoryl diester phosphodiesterase
+1_130: PFLU4824 ref|YP_002874337.1|gi|229592218| hypothetical protein
+1_131: PFLU4842 ref|YP_002874353.1|gi|229592234| putative porin
+1_132: PFLU4883 ref|YP_002874389.1|gi|229592270| hypothetical protein
+1_133: PFLU4885 ref|YP_002874391.1|gi|229592272| hypothetical protein
+1_134: PFLU4906 ref|YP_002874412.1|gi|229592293| hypothetical protein
+1_135: PFLU5112 ref|YP_002874617.1|gi|229592498| hypothetical protein
+1_136: PFLU5117 ref|YP_002874622.1|gi|229592503| putative cytochrome C
+1_137: PFLU5147 ref|YP_002874650.1|gi|229592531| hypothetical protein
+1_138: PFLU5148 ref|YP_002874651.1|gi|229592532| hypothetical protein
+1_139: PFLU5181 ref|YP_002874684.1|gi|229592565| hypothetical protein
+1_140: PFLU5248 ref|YP_002874750.1|gi|229592631| osmotically inducible protein Y
+1_141: PFLU5280 ref|YP_002874782.1|gi|229592663| hypothetical protein
+1_142: PFLU5323 ref|YP_002874822.1|gi|229592703| hypothetical protein
+1_143: PFLU5338 ref|YP_002874837.1|gi|229592718| putative ankyrin domain protein
+1_144: PFLU5372 ref|YP_002874870.1|gi|229592751| hypothetical protein
+1_145: PFLU5437 ref|YP_002874935.1|gi|229592816| putative lipoprotein
+1_146: PFLU5479 ref|YP_002874974.1|gi|229592855| hypothetical protein
+1_147: PFLU5483 ref|YP_002874978.1|gi|229592859| putative ABC transporter outer membrane exported protein
+1_148: PFLU5567 ref|YP_002875062.1|gi|229592943| putative ABC transporter exported protein
+1_149: PFLU5570 ref|YP_002875065.1|gi|229592946| putative two-component system sensor kinase
+1_150: PFLU5571 ref|YP_002875066.1|gi|229592947| hypothetical protein
+1_151: PFLU5667 ref|YP_002875160.1|gi|229593041| hypothetical protein
+1_152: PFLU5673 ref|YP_002875166.1|gi|229593047| hypothetical protein
+1_153: PFLU5680 ref|YP_002875173.1|gi|229593054| putative glycine betaine/L-proline ABC transporter substrate-binding protein
+1_154: PFLU5725 ref|YP_002875217.1|gi|229593098| hypothetical protein
+1_155: PFLU5729 ref|YP_002875221.1|gi|229593102| putative ABC transporter substrate-binding exported protein
+1_156: PFLU5768 ref|YP_002875258.1|gi|229593139| hypothetical protein
+1_157: PFLU5801 ref|YP_002875290.1|gi|229593171| hypothetical protein
+1_158: PFLU5830 ref|YP_002875319.1|gi|229593200| hypothetical protein
+1_159: PFLU5860 ref|YP_002875348.1|gi|229593229| hypothetical protein
+1_160: PFLU5891 ref|YP_002875377.1|gi|229593258| flagellar basal body-associated protein FliL-like protein
+1_161: PFLU5896 ref|YP_002875382.1|gi|229593263| hypothetical protein
+1_162: PFLU5952 ref|YP_002875438.1|gi|229593319| putative ammonium transport membrane protein
+1_163: PFLU5964 ref|YP_002875450.1|gi|229593331| putative cytochrome c5
+1_164: PFLU6007 ref|YP_002875491.1|gi|229593372| putative ABC transporter substrate-binding protein
+1_165: PFLU6042 ref|YP_002875525.1|gi|229593406| putative peptidase
+1_166: PFLU6048 ref|YP_002875531.1|gi|229593412| putative phosphate ABC transporter periplasmic substrate-binding protein
+1_167: PFLU6086A ref|YP_002875568.1|gi|229593449| hypothetical protein
+2_0: PSPTO_5633 ref|YP_003778199.1|gi|300781803| hypothetical protein
+2_1: PSPTO_0135 ref|NP_789994.1|gi|28867375| FKBP-type peptidyl-prolyl cis-trans isomerase
+2_2: PSPTO_0151 ref|NP_790010.1|gi|28867391| hypothetical protein
+2_3: PSPTO_0154 ref|NP_790013.1|gi|28867394| hypothetical protein
+2_4: PSPTO_0176 ref|NP_790035.1|gi|28867416| LysM domain-containing protein
+2_5: PSPTO_0277 ref|NP_790128.1|gi|28867509| hypothetical protein
+2_6: PSPTO_0314 ref|NP_790164.1|gi|28867545| iron ABC transporter periplasmic iron-binding protein
+2_7: PSPTO_0341 ref|NP_790191.1|gi|28867572| thiol:disulfide interchange protein DsbA
+2_8: PSPTO_0357 ref|NP_790206.1|gi|28867587| chorismate mutase
+2_9: PSPTO_0364 ref|NP_790213.1|gi|28867594| sugar ABC transporter periplasmic sugar-binding protein
+2_10: PSPTO_0367 ref|NP_790216.1|gi|28867597| hypothetical protein
+2_11: PSPTO_0369 ref|NP_790218.1|gi|28867599| outer membrane porin, OprD family
+2_12: PSPTO_0393 ref|NP_790242.1|gi|28867623| hypothetical protein
+2_13: PSPTO_0436 ref|NP_790285.1|gi|28867666| hypothetical protein
+2_14: PSPTO_0464 ref|NP_790313.1|gi|28867694| glycine betaine/L-proline ABC transporter, periplasmic substrate-binding protein
+2_15: PSPTO_0486 ref|NP_790335.1|gi|28867716| ABC transporter substrate-binding protein
+2_16: PSPTO_0563 ref|NP_790410.1|gi|28867791| polyamine ABC transporter periplasmic polyamine-binding protein
+2_17: PSPTO_0569 ref|NP_790416.1|gi|28867797| autotransporting lipase, GDSL family
+2_18: PSPTO_0679 ref|NP_790526.1|gi|28867907| outer membrane protein OmpW
+2_19: PSPTO_0680 ref|NP_790527.1|gi|28867908| lipoprotein
+2_20: PSPTO_0683 ref|NP_790530.1|gi|28867911| hypothetical protein
+2_21: PSPTO_0763 ref|NP_790610.1|gi|28867991| iron(III) dicitrate transport system, periplasmic iron-binding protein FecB
+2_22: PSPTO_0791 ref|NP_790638.1|gi|28868019| phosphonate ABC transporter periplasmic phosphonate-binding protein
+2_23: PSPTO_1062 ref|NP_790898.1|gi|28868279| hypothetical protein
+2_24: PSPTO_1206 ref|NP_791038.1|gi|28868419| TonB-dependent siderophore receptor
+2_25: PSPTO_1292 ref|NP_791121.1|gi|28868502| glucose ABC transporter, periplasmic glucose-binding protein
+2_26: PSPTO_1335 ref|NP_791162.1|gi|28868543| cyclohexadienyl dehydratase
+2_27: PSPTO_1344 ref|NP_791171.1|gi|28868552| hypothetical protein
+2_28: PSPTO_1479 ref|NP_791305.1|gi|28868686| thiol:disulfide interchange protein DsbC
+2_29: PSPTO_1506 ref|NP_791331.1|gi|28868712| ompA family protein
+2_30: PSPTO_1580 ref|NP_791405.1|gi|28868786| hypothetical protein
+2_31: PSPTO_1609 ref|NP_791434.1|gi|28868815| hypothetical protein
+2_32: PSPTO_1620 ref|NP_791445.1|gi|28868826| hypothetical protein
+2_33: PSPTO_1624 ref|NP_791449.1|gi|28868830| sodium:solute symporter family protein
+2_34: PSPTO_1651 ref|NP_791476.1|gi|28868857| hypothetical protein
+2_35: PSPTO_1698 ref|NP_791523.1|gi|28868904| hypothetical protein
+2_36: PSPTO_1719 ref|NP_791544.1|gi|28868925| glutathione peroxidase
+2_37: PSPTO_1766 ref|NP_791591.1|gi|28868972| lipase
+2_38: PSPTO_1805 ref|NP_791630.1|gi|28869011| hypothetical protein
+2_39: PSPTO_1824 ref|NP_791648.1|gi|28869029| hypothetical protein
+2_40: PSPTO_1895 ref|NP_791718.1|gi|28869099| hypothetical protein
+2_41: PSPTO_1971 ref|NP_791794.1|gi|28869175| flagellar protein FliO
+2_42: PSPTO_2033 ref|NP_791856.1|gi|28869237| lipoprotein
+2_43: PSPTO_2062 ref|NP_791885.1|gi|28869266| hypothetical protein
+2_44: PSPTO_2071 ref|NP_791894.1|gi|28869275| hypothetical protein
+2_45: PSPTO_2132 ref|NP_791954.1|gi|28869335| hypothetical protein
+2_46: PSPTO_2138 ref|NP_791960.1|gi|28869341| ABC transporter periplasmic substrate-binding protein
+2_47: PSPTO_2207 ref|NP_792028.1|gi|28869409| lipoprotein
+2_48: PSPTO_2364 ref|NP_792180.1|gi|28869561| endonuclease I
+2_49: PSPTO_2377 ref|NP_792193.1|gi|28869574| hypothetical protein
+2_50: PSPTO_2586 ref|NP_792395.1|gi|28869776| ammonium transporter
+2_51: PSPTO_2589 ref|NP_792398.1|gi|28869779| hypothetical protein
+2_52: PSPTO_5640 ref|YP_003778208.1|gi|300781813| hypothetical protein
+2_53: PSPTO_2636 ref|NP_792444.1|gi|28869825| aldose 1-epimerase
+2_54: PSPTO_2667 ref|NP_792474.1|gi|28869855| spermidine/putrescine ABC transporter periplasmic spermidine/putrescine-binding protein
+2_55: PSPTO_2690 ref|NP_792497.1|gi|28869878| lipoprotein
+2_56: PSPTO_2707 ref|NP_792513.1|gi|28869894| mannitol ABC transporter, periplasmic mannitol-binding protein
+2_57: PSPTO_2733 ref|NP_792539.1|gi|28869920| esterified fatty acid cis/trans isomerase
+2_58: PSPTO_2785 ref|NP_792590.1|gi|28869971| putrescine ABC transporter periplasmic putrescine-binding protein
+2_59: PSPTO_2849 ref|NP_792651.1|gi|28870032| cytochrome c family protein
+2_60: PSPTO_2865 ref|NP_792666.1|gi|28870047| 4-carboxymuconolactone decarboxylase
+2_61: PSPTO_2912 ref|NP_792710.1|gi|28870091| glutamine ABC transporter, periplasmic amino acid-binding protein
+2_62: PSPTO_3003 ref|NP_792800.1|gi|28870181| D-xylose ABC transporter, periplasmic-D xylose binding protein
+2_63: PSPTO_3092 ref|NP_792886.1|gi|28870267| hypothetical protein
+2_64: PSPTO_3230 ref|NP_793015.1|gi|28870396| hemolysin activator protein, HlyB family
+2_65: PSPTO_3241 ref|NP_793025.1|gi|28870406| phytase domain-containing protein
+2_66: PSPTO_3264 ref|NP_793047.1|gi|28870428| alpha/beta fold family hydrolase
+2_67: PSPTO_3269 ref|NP_793052.1|gi|28870433| phosphate ABC transporter substrate-binding protein
+2_68: PSPTO_3270 ref|NP_793053.1|gi|28870434| hypothetical protein
+2_69: PSPTO_3282 ref|NP_793065.1|gi|28870446| lipoprotein
+2_70: PSPTO_3288 ref|NP_793071.1|gi|28870452| hypothetical protein
+2_71: PSPTO_3289 ref|NP_793072.1|gi|28870453| hypothetical protein
+2_72: PSPTO_3306 ref|NP_793089.1|gi|28870470| phospholipase/carboxylesterase family protein
+2_73: PSPTO_3318 ref|NP_793101.1|gi|28870482| beta-glucosidase
+2_74: PSPTO_3461 ref|NP_793241.1|gi|28870622| glycerophosphoryl diester phosphodiesterase
+2_75: PSPTO_3462 ref|NP_793242.1|gi|28870623| TonB-dependent siderophore receptor
+2_76: PSPTO_3490 ref|NP_793270.1|gi|28870651| sugar ABC transporter periplasmic sugar-binding protein
+2_77: PSPTO_3594 ref|NP_793373.1|gi|28870754| beta-lactamase
+2_78: PSPTO_3599 ref|NP_793378.1|gi|28870759| hypothetical protein
+2_79: PSPTO_3625 ref|NP_793402.1|gi|28870783| sulfate ABC transporter substrate-binding protein
+2_80: PSPTO_3628 ref|NP_793404.1|gi|28870785| cytochrome c-type biogenesis protein CycL
+2_81: PSPTO_3671 ref|NP_793445.1|gi|28870826| hypothetical protein
+2_82: PSPTO_3716 ref|NP_793490.1|gi|28870871| ABC transporter substrate-binding protein
+2_83: PSPTO_3878 ref|NP_793649.1|gi|28871030| ABC transporter substrate-binding protein
+2_84: PSPTO_3987 ref|NP_793751.1|gi|28871132| porin D
+2_85: PSPTO_4047 ref|NP_793809.1|gi|28871190| hypothetical protein
+2_86: PSPTO_4090 ref|NP_793851.1|gi|28871232| peptidyl-prolyl cis-trans isomerase A
+2_87: PSPTO_4122 ref|NP_793883.1|gi|28871264| nucleoside-specific channel-forming protein
+2_88: PSPTO_4123 ref|NP_793884.1|gi|28871265| purine nucleoside permease
+2_89: PSPTO_4178 ref|NP_793939.1|gi|28871320| alpha/beta fold family hydrolase
+2_90: PSPTO_4209 ref|NP_793970.1|gi|28871351| hypothetical protein
+2_91: PSPTO_4238 ref|NP_793999.1|gi|28871380| ABC transporter substrate-binding protein
+2_92: PSPTO_4290 ref|NP_794046.1|gi|28871427| beta-glucosidase
+2_93: PSPTO_4297 ref|NP_794053.1|gi|28871434| hypothetical protein
+2_94: PSPTO_4368 ref|NP_794123.1|gi|28871504| lipoprotein
+2_95: PSPTO_4484 ref|NP_794238.1|gi|28871619| hypothetical protein
+2_96: PSPTO_4516 ref|NP_794269.1|gi|28871650| hypothetical protein
+2_97: PSPTO_4577 ref|NP_794328.1|gi|28871709| glycine betaine/choline OpuC ABC transporter, periplasmic substrate-binding protein
+2_98: PSPTO_4587 ref|NP_794338.1|gi|28871719| hypothetical protein
+2_99: PSPTO_4610 ref|NP_794361.1|gi|28871742| hypothetical protein
+2_100: PSPTO_4658 ref|NP_794409.1|gi|28871790| hypothetical protein
+2_101: PSPTO_4881 ref|NP_794615.1|gi|28871996| hypothetical protein
+2_102: PSPTO_4912 ref|NP_794645.1|gi|28872026| urease accessory protein
+2_103: PSPTO_5071 ref|NP_794803.1|gi|28872184| hypothetical protein
+2_104: PSPTO_5101 ref|NP_794833.1|gi|28872214| hypothetical protein
+2_105: PSPTO_5120 ref|NP_794852.1|gi|28872233| amidase family protein
+2_106: PSPTO_5187 ref|NP_794918.1|gi|28872299| D-methionine-binding lipoprotein MetQ
+2_107: PSPTO_5202 ref|NP_794933.1|gi|28872314| hypothetical protein
+2_108: PSPTO_5230 ref|NP_794961.1|gi|28872342| flagellar basal body-associated protein FliL-like protein
+2_109: PSPTO_5245 ref|NP_794976.1|gi|28872357| amino acid ABC transporter substrate-binding protein
+2_110: PSPTO_5260 ref|NP_794991.1|gi|28872372| D-methionine-binding lipoprotein MetQ
+2_111: PSPTO_5297 ref|NP_795028.1|gi|28872409| hypothetical protein
+2_112: PSPTO_5318 ref|NP_795049.1|gi|28872430| outer membrane porin, OprD family
+2_113: PSPTO_5319 ref|NP_795050.1|gi|28872431| taurine ABC transporter, periplasmic taurine-binding protein
+2_114: PSPTO_5328 ref|NP_795059.1|gi|28872440| peptidase, M23/M37 family
+2_115: PSPTO_5330 ref|NP_795061.1|gi|28872442| hypothetical protein
+2_116: PSPTO_5562 ref|NP_795286.1|gi|28872667| iron compound ABC transporter substrate-binding protein
+2_117: PSPTOA0042 ref|NP_808700.1|gi|29171516| pilT protein
+2_118: PSPTOA0052 ref|NP_808710.1|gi|29171526| traN protein
+2_119: PSPTO_B0003 ref|NP_808595.1|gi|29171549| hypothetical protein
+2_120: PSPTO_B0060 ref|NP_808646.1|gi|29171600| traN protein

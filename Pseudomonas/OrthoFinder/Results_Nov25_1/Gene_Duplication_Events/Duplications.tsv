@@ -1,0 +1,19 @@
+Orthogroup	Species Tree Node	Gene Tree Node	Support	Type	Genes 1	Genes 2
+OG0000000	N0	n0	1.0	Non-Terminal	psyr_final_PSPTO_5318, pflr_final_PFLU0957, pflr_final_PFLU5860, paer_final_PA0162	paer_final_PA2760, psyr_final_PSPTO_3987, pflr_final_PFLU0824, psyr_final_PSPTO_0369, pflr_final_PFLU0296
+OG0000000	pflr.final	n3	1.0	Terminal	pflr_final_PFLU0957	pflr_final_PFLU5860
+OG0000000	N0	n5	0.6666666666666666	Non-Terminal	psyr_final_PSPTO_3987, pflr_final_PFLU0824	psyr_final_PSPTO_0369, pflr_final_PFLU0296
+OG0000001	N0	n0	1.0	Non-Terminal	psyr_final_PSPTO_5260, pflr_final_PFLU0068, paer_final_PA5505	paer_final_PA3931, pflr_final_PFLU0215, paer_final_PA2349, psyr_final_PSPTO_5187, pflr_final_PFLU0239
+OG0000001	N0	n3	0.6666666666666666	Non-Terminal	paer_final_PA3931, pflr_final_PFLU0215	paer_final_PA2349, psyr_final_PSPTO_5187, pflr_final_PFLU0239
+OG0000002	N1	n1	0.5	Non-Terminal	pflr_final_PFLU1213, paer_final_PA3610, paer_final_PA0300, paer_final_PA2592, pflr_final_PFLU2564	pflr_final_PFLU3150
+OG0000002	N1	n2	1.0	Non-Terminal	pflr_final_PFLU1213, paer_final_PA3610, paer_final_PA0300	paer_final_PA2592, pflr_final_PFLU2564
+OG0000002	paer.final	n4	1.0	Terminal	paer_final_PA3610	paer_final_PA0300
+OG0000003	N0	n0	1.0	Non-Terminal	pflr_final_PFLU0313, paer_final_PA5153, psyr_final_PSPTO_5245	psyr_final_PSPTO_2912, paer_final_PA3462, pflr_final_PFLU5570
+OG0000004	paer.final	n2	1.0	Terminal	paer_final_PA1233	paer_final_PA0874, paer_final_PA3412
+OG0000004	paer.final	n3	1.0	Terminal	paer_final_PA0874	paer_final_PA3412
+OG0000005	N1	n1	1.0	Non-Terminal	paer_final_PA5388, pflr_final_PFLU5673	paer_final_PA5378, pflr_final_PFLU5680
+OG0000006	psyr.final	n2	1.0	Terminal	psyr_final_PSPTO_0154	psyr_final_PSPTO_0151
+OG0000007	paer.final	n2	1.0	Terminal	paer_final_PA1493	paer_final_PA0283
+OG0000008	pflr.final	n2	1.0	Terminal	pflr_final_PFLU2640	pflr_final_PFLU2639
+OG0000009	pflr.final	n2	1.0	Terminal	pflr_final_PFLU1808	pflr_final_PFLU1581
+OG0000010	psyr.final	n2	1.0	Terminal	psyr_final_PSPTO_5319	psyr_final_PSPTO_4238
+OG0000011	psyr.final	n2	1.0	Terminal	psyr_final_PSPTO_1206	psyr_final_PSPTO_3462

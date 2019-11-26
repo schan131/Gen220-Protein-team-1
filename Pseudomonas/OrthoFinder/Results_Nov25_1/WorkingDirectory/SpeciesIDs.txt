@@ -1,0 +1,3 @@
+0: paer.final.fasta
+1: pflr.final.fasta
+2: psyr.final.fasta
