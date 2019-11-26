@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import re, os, csv, itertools
 
 #make sure to overwrite the files or remove them before running this program
@@ -128,3 +129,6 @@ for sp in pflrsp:
         pflrnonmat.remove(pflrnonmat[0])
         pflrfullname.remove(pflrfullname[0])
         break
+=======
+
+>>>>>>> 134d7a4fbd8fe3d32cbf783cc8603a65bf303c53
