@@ -1,3 +1,5 @@
+module load miniconda3
+
 module load signalp
 
 sigp='Y'
@@ -29,3 +31,4 @@ else
 fi
 signalp -c 30 -M 15 -t gram- pflr.txt > pflr.pred.txt
 
+python matseq.py
