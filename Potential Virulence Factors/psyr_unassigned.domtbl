@@ -1,0 +1,46 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FKBP_C               PF00254.28    94 PSPTO_0135           -            205   1.2e-19   70.4   0.0   1   1   2.3e-23   2.1e-19   69.7   0.0     3    94   117   201   115   201 0.94 FKBP-type peptidyl-prolyl cis-trans isomerase
+FKBP_N               PF01346.18    97 PSPTO_0135           -            205   2.4e-14   54.1   0.0   1   1   4.3e-18   3.8e-14   53.4   0.0     3    93    10   105     8   107 0.92 Domain amino terminal to FKBP-type peptidyl-prolyl isomerase
+DUF3299              PF11736.8    138 PSPTO_0680           -            154   1.9e-48  164.0   0.2   1   1   1.2e-52   2.1e-48  163.8   0.2     1   136     7   146     7   148 0.90 Protein of unknown function (DUF3299)
+Peripla_BP_2         PF01497.18   238 PSPTO_0763           -            281   8.9e-22   77.8   0.0   1   1   5.7e-26     1e-21   77.6   0.0     1   235    20   248    20   251 0.87 Periplasmic binding protein
+Phosphonate-bd       PF12974.7    243 PSPTO_0791           -            259   5.5e-67  225.9   0.5   1   1     1e-70   6.2e-67  225.7   0.5     2   243     6   245     5   245 0.97 ABC transporter, phosphonate, periplasmic substrate-binding protein
+SBP_bac_3            PF00497.20   225 PSPTO_0791           -            259   1.2e-10   41.2   0.1   1   1   5.8e-14   3.5e-10   39.7   0.1    32   209    27   218    23   222 0.81 Bacterial extracellular solute-binding proteins, family 3
+NMT1                 PF09084.11   216 PSPTO_0791           -            259   7.1e-06   26.1   0.0   1   1   1.7e-09     1e-05   25.6   0.0    20   161    32   179    26   199 0.82 NMT1/THI5 like
+SBP_bac_3            PF00497.20   225 PSPTO_1335           -            240     4e-35  121.3   0.0   1   1   2.5e-39   4.5e-35  121.1   0.0     1   223    15   234    15   236 0.93 Bacterial extracellular solute-binding proteins, family 3
+DLH                  PF01738.18   217 PSPTO_1580           -            322   5.8e-09   35.8   0.2   1   1   1.4e-11   1.2e-07   31.5   0.1    11   131    40   168    30   208 0.71 Dienelactone hydrolase family
+BAAT_C               PF08840.11   213 PSPTO_1580           -            322   7.4e-05   22.8   0.1   1   1   1.6e-08   0.00014   21.8   0.0     6    66   105   168   100   207 0.75 BAAT / Acyl-CoA thioester hydrolase C terminal
+PepSY                PF03413.19    63 PSPTO_1609           -             79   9.8e-15   54.9   0.1   1   1   7.3e-19   1.3e-14   54.5   0.1     5    61    19    74    17    75 0.93 Peptidase propeptide and YPEB domain
+SSF                  PF00474.17   406 PSPTO_1624           -            531  9.7e-128  426.5  38.5   1   1  9.3e-132  1.7e-127  425.7  38.5     1   406    44   450    44   450 1.00 Sodium:solute symporter family
+GSHPx                PF00255.19   108 PSPTO_1719           -            161   1.2e-22   79.5   0.0   1   1   9.4e-27   1.7e-22   79.0   0.0    12   107    17   112    10   113 0.93 Glutathione peroxidase
+Rhodanese            PF00581.20   107 PSPTO_2062           -            104   2.2e-07   31.3   0.1   1   1   1.5e-11   2.7e-07   31.1   0.1     7   100     9    86     3    90 0.87 Rhodanese-like domain
+DUF4174              PF13778.6    120 PSPTO_5640           -            156   1.4e-29  103.0   0.0   1   1   8.8e-34   1.6e-29  102.8   0.0     1   120     5   123     5   123 0.97 Domain of unknown function (DUF4174)
+Aldose_epim          PF01263.20   301 PSPTO_2636           -            358   1.9e-97  326.2   0.5   1   1  1.2e-101   2.2e-97  326.0   0.5     2   301    20   354    19   354 0.99 Aldose 1-epimerase
+CMD                  PF02627.20    85 PSPTO_2865           -            242   3.3e-43  145.6   0.0   1   2   6.4e-24   1.1e-19   70.2   0.1     3    85    25   107    23   107 0.93 Carboxymuconolactone decarboxylase family
+CMD                  PF02627.20    85 PSPTO_2865           -            242   3.3e-43  145.6   0.0   2   2   6.9e-25   1.2e-20   73.3   0.0     1    83   150   232   150   234 0.95 Carboxymuconolactone decarboxylase family
+Phytase              PF02333.15   375 PSPTO_3241           -            614   4.1e-85  286.0   0.0   1   2     1e-08   0.00019   20.6   0.0   153   242   107   195    29   233 0.84 Phytase
+Phytase              PF02333.15   375 PSPTO_3241           -            614   4.1e-85  286.0   0.0   2   2   1.7e-82     3e-78  263.4   0.0    33   357   297   611   282   613 0.93 Phytase
+Hydrolase_4          PF12146.8    239 PSPTO_3282           -            360   4.4e-21   75.2   0.0   1   1   4.8e-23   2.2e-19   69.7   0.0     2   227    47   253    46   257 0.79 Serine aminopeptidase, S33
+Abhydrolase_6        PF12697.7    220 PSPTO_3282           -            360   1.1e-10   42.5   2.1   1   1   3.3e-14   1.5e-10   42.1   2.1     1   149    52   209    52   298 0.57 Alpha/beta hydrolase family
+Abhydrolase_1        PF00561.20   257 PSPTO_3282           -            360   4.8e-09   36.2   0.3   1   1   1.6e-09   7.1e-06   25.8   0.1     3   121    52   172    50   180 0.85 alpha/beta hydrolase fold
+Beta-lactamase       PF00144.24   330 PSPTO_3594           -            361   1.6e-66  224.8   1.3   1   1   1.1e-70   1.9e-66  224.6   1.3     4   329    13   357    10   358 0.91 Beta-lactamase
+Channel_Tsx          PF03502.13   245 PSPTO_3671           -            238   1.7e-10   41.1  10.8   1   1   1.2e-14   2.2e-10   40.7  10.8     6   234     5   229     2   237 0.80 Nucleoside-specific channel-forming protein, Tsx
+Channel_Tsx          PF03502.13   245 PSPTO_4122           -            284   3.7e-67  226.6  12.5   1   1   2.4e-71   4.3e-67  226.4  12.5     3   245    29   284    27   284 0.97 Nucleoside-specific channel-forming protein, Tsx
+NUP                  PF06516.11   313 PSPTO_4123           -            320  7.5e-126  419.6   0.0   1   1  4.7e-130  8.5e-126  419.4   0.0     2   313     9   319     8   319 0.99 Purine nucleoside permease (NUP)
+Peptidase_M75        PF09375.10   288 PSPTO_4368           -            338     1e-53  182.7   7.9   1   1   6.4e-58   1.2e-53  182.5   7.9     1   287    21   317    21   318 0.97 Imelysin
+OpuAC                PF04069.12   257 PSPTO_4577           -            276   2.2e-66  224.1   0.7   1   1   1.4e-70   2.5e-66  223.9   0.7     3   257     5   272     3   272 0.96 Substrate binding domain of ABC-type glycine betaine transport system
+LolA                 PF03548.15   165 PSPTO_5101           -            181   8.1e-07   28.9   0.1   1   1   1.1e-10     2e-06   27.6   0.1     6   160    15   174    10   175 0.84 Outer membrane lipoprotein carrier protein LolA
+Amidase              PF01425.21   451 PSPTO_5120           -            499   3.4e-85  286.7   0.0   1   1     2e-85   3.7e-81  273.4   0.0     1   378    44   426    44   427 0.86 Amidase
+DUF2059              PF09832.9     60 PSPTO_5297           -            233   3.8e-14   52.5   0.8   1   1   8.4e-12   1.5e-07   31.4   0.1     1    59    52   109    52   110 0.91 Uncharacterized protein conserved in bacteria (DUF2059)
+SLT                  PF01464.20   117 PSPTOA0042           -            144   8.7e-23   80.2   0.0   1   1   5.7e-27     1e-22   80.0   0.0     2   109     1   118     1   126 0.90 Transglycosylase SLT domain
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /rhome/avale043/Gen220-Protein-team-1/PFAM/psyr_genes/unassigned/psyr_unassigned_sequences.fasta
+# Target file:     /srv/projects/db/pfam/2018-10-18-Pfam32.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout psyr_unassigned.domtbl --cut_ga --cpu 24 /srv/projects/db/pfam/2018-10-18-Pfam32.0/Pfam-A.hmm /rhome/avale043/Gen220-Protein-team-1/PFAM/psyr_genes/unassigned/psyr_unassigned_sequences.fasta 
+# Current dir:     /rhome/avale043/Gen220-Protein-team-1/PFAM
+# Date:            Fri Dec  6 09:13:29 2019
+# [ok]

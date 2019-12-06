@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF3757              PF12582.8    118 PSPTO_5633           -            134   2.4e-32  111.8   0.1   1   1   1.5e-36   2.7e-32  111.7   0.1     1   117     3   126     3   127 0.93 Protein of unknown function (DUF3757)
+DUF3757              PF12582.8    118 PSPTO_B0003          -            134   2.4e-32  111.8   0.1   1   1   1.5e-36   2.7e-32  111.7   0.1     1   117     3   126     3   127 0.93 Protein of unknown function (DUF3757)
+DUF2790              PF10976.8     78 PSPTO_0367           -             87   1.3e-25   89.2   0.5   1   1   8.1e-30   1.5e-25   89.0   0.5    12    78    19    84     4    84 0.85 Protein of unknown function (DUF2790)
+DUF2790              PF10976.8     78 PSPTO_3288           -             87   1.5e-23   82.6   0.5   1   1   9.6e-28   1.7e-23   82.4   0.5     8    77    16    83     9    84 0.88 Protein of unknown function (DUF2790)
+T4BSS_DotH_IcmK      PF12293.8    237 PSPTOA0052           -            332   9.8e-85  283.6   0.7   1   1   6.8e-89   1.2e-84  283.3   0.7     1   236    85   326    85   327 0.99 Putative outer membrane core complex of type IVb secretion
+T4BSS_DotH_IcmK      PF12293.8    237 PSPTO_B0060          -            332   9.8e-85  283.6   0.7   1   1   6.8e-89   1.2e-84  283.3   0.7     1   236    85   326    85   327 0.99 Putative outer membrane core complex of type IVb secretion
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /rhome/avale043/Gen220-Protein-team-1/Pseudomonas/psyr_specific_genes.fasta
+# Target file:     /srv/projects/db/pfam/2018-10-18-Pfam32.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout psyr_specific.domtbl --cut_ga --cpu 24 /srv/projects/db/pfam/2018-10-18-Pfam32.0/Pfam-A.hmm /rhome/avale043/Gen220-Protein-team-1/Pseudomonas/psyr_specific_genes.fasta 
+# Current dir:     /rhome/avale043/Gen220-Protein-team-1/PFAM
+# Date:            Fri Dec  6 09:11:05 2019
+# [ok]
