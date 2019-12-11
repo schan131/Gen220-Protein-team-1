@@ -1,0 +1,26 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Cytochrome_CBB3      PF13442.6     67 PA2257               -            192   1.7e-15   57.1   0.3   1   2   2.7e-11   2.4e-07   31.0   0.0     1    66     8    85     8    86 0.74 Cytochrome C oxidase, cbb3-type, subunit III
+Cytochrome_CBB3      PF13442.6     67 PA2257               -            192   1.7e-15   57.1   0.3   2   2   2.9e-09   2.6e-05   24.5   0.0    14    67   123   187   104   187 0.83 Cytochrome C oxidase, cbb3-type, subunit III
+Cytochrom_C          PF00034.21    92 PA2257               -            192   1.3e-14   55.1   0.7   1   2   7.2e-09   6.5e-05   24.0   0.1     2    53    11    64    10    90 0.80 Cytochrome c
+Cytochrom_C          PF00034.21    92 PA2257               -            192   1.3e-14   55.1   0.7   2   2   5.2e-10   4.6e-06   27.7   0.0     2    90   105   189   104   191 0.81 Cytochrome c
+Cytochrom_C          PF00034.21    92 PA2482               -            195   5.1e-14   53.2   0.6   1   2   1.2e-08   0.00011   23.3   0.8     3    54     2    61     1   103 0.77 Cytochrome c
+Cytochrom_C          PF00034.21    92 PA2482               -            195   5.1e-14   53.2   0.6   2   2     1e-09     9e-06   26.8   0.0    11    91   119   188   104   189 0.85 Cytochrome c
+Cytochrome_CBB3      PF13442.6     67 PA2482               -            195   4.6e-13   49.3   0.4   1   1   4.9e-10   4.4e-06   26.9   0.3     7    64    12    80     2    81 0.70 Cytochrome C oxidase, cbb3-type, subunit III
+Cytochrom_C          PF00034.21    92 PA5490               -            180   1.6e-18   67.6   3.9   1   2     1e-11   9.2e-08   33.1   1.4     4    92     6    79     3    79 0.82 Cytochrome c
+Cytochrom_C          PF00034.21    92 PA5490               -            180   1.6e-18   67.6   3.9   2   2   1.2e-11     1e-07   33.0   0.0     2    90    91   178    90   180 0.83 Cytochrome c
+Cytochrome_CBB3      PF13442.6     67 PA5490               -            180   8.2e-15   54.9   0.7   1   2   9.3e-11   8.4e-07   29.2   0.1     3    66     3    74     1    75 0.75 Cytochrome C oxidase, cbb3-type, subunit III
+Cytochrome_CBB3      PF13442.6     67 PA5490               -            180   8.2e-15   54.9   0.7   2   2     3e-09   2.7e-05   24.4   0.0     7    67    94   176    88   176 0.75 Cytochrome C oxidase, cbb3-type, subunit III
+DUF3015              PF11220.8    142 PA4578               -            142   1.6e-55  186.8   2.2   1   1     1e-59   1.8e-55  186.7   2.2     4   141     1   138     1   139 0.99 Protein of unknown function (DUF3015)
+DUF3015              PF11220.8    142 PA4607               -            143     1e-53  181.1   3.1   1   1   6.2e-58   1.1e-53  180.9   3.1     4   141     1   138     1   139 0.99 Protein of unknown function (DUF3015)
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /rhome/avale043/Gen220-Protein-team-1/Pseudomonas/paer_specific_genes.fasta
+# Target file:     /srv/projects/db/pfam/2018-10-18-Pfam32.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout paer_specific.domtbl --cut_ga --cpu 24 /srv/projects/db/pfam/2018-10-18-Pfam32.0/Pfam-A.hmm /rhome/avale043/Gen220-Protein-team-1/Pseudomonas/paer_specific_genes.fasta 
+# Current dir:     /rhome/avale043/Gen220-Protein-team-1/PFAM
+# Date:            Fri Dec  6 09:11:46 2019
+# [ok]

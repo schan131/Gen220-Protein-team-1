@@ -1,0 +1,47 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+BCSC_C               PF05420.11   339 PFLU0304             -           1257    3e-103  345.5  10.2   1   1  4.1e-106  4.8e-103  344.8  10.2     1   339   912  1238   912  1238 0.97 Cellulose synthase operon protein C C-terminus (BCSC_C)
+TPR_19               PF14559.6     68 PFLU0304             -           1257   2.5e-46  156.1  65.2   1   2   1.8e-13   2.2e-10   40.9   3.7     3    60   450   507   448   519 0.91 Tetratricopeptide repeat
+TPR_19               PF14559.6     68 PFLU0304             -           1257   2.5e-46  156.1  65.2   2   2   1.4e-09   1.7e-06   28.4   3.8     2    66   674   738   673   740 0.94 Tetratricopeptide repeat
+TPR_16               PF13432.6     68 PFLU0304             -           1257   2.7e-22   79.1  74.7   1   3   1.1e-07   0.00013   22.6   0.3     7    65    14    70    11    76 0.86 Tetratricopeptide repeat
+TPR_16               PF13432.6     68 PFLU0304             -           1257   2.7e-22   79.1  74.7   2   3   1.2e-07   0.00015   22.3   0.0     9    59   374   421   371   427 0.90 Tetratricopeptide repeat
+TPR_16               PF13432.6     68 PFLU0304             -           1257   2.7e-22   79.1  74.7   3   3   3.2e-08   3.8e-05   24.2   5.5     4    68   445   506   442   506 0.96 Tetratricopeptide repeat
+TPR_8                PF13181.6     34 PFLU0304             -           1257   1.2e-13   50.1  12.7   1   2   6.4e-06    0.0076   16.4   0.1     7    34   444   471   442   471 0.93 Tetratricopeptide repeat
+TPR_8                PF13181.6     34 PFLU0304             -           1257   1.2e-13   50.1  12.7   2   2     9e-05      0.11   12.8   0.1     2    31   766   795   765   797 0.89 Tetratricopeptide repeat
+TPR_6                PF13174.6     33 PFLU0304             -           1257   4.8e-06   26.9  40.1   1   1   0.00019      0.22   12.2   0.1     1    28    40    67    40    70 0.92 Tetratricopeptide repeat
+TPR_14               PF13428.6     44 PFLU0735             -            552   4.5e-28   95.5  47.3   1   1   1.1e-08   1.7e-05   25.2   0.5     2    38   471   507   470   509 0.90 Tetratricopeptide repeat
+TPR_19               PF14559.6     68 PFLU0735             -            552   3.2e-25   88.4  47.8   1   1   2.7e-09     4e-06   27.2   0.3     6    63   451   507   448   512 0.94 Tetratricopeptide repeat
+TPR_16               PF13432.6     68 PFLU0735             -            552   1.4e-22   80.1  36.0   1   4   9.4e-06     0.014   16.0   0.4     5    59   239   290   235   297 0.89 Tetratricopeptide repeat
+TPR_16               PF13432.6     68 PFLU0735             -            552   1.4e-22   80.1  36.0   2   4   1.9e-06    0.0028   18.3   1.3     2    58   270   324   269   330 0.88 Tetratricopeptide repeat
+TPR_16               PF13432.6     68 PFLU0735             -            552   1.4e-22   80.1  36.0   3   4   1.4e-05      0.02   15.5   3.7     1    61   336   394   336   400 0.76 Tetratricopeptide repeat
+TPR_16               PF13432.6     68 PFLU0735             -            552   1.4e-22   80.1  36.0   4   4   6.1e-08     9e-05   23.0   0.5    12    67   451   503   447   504 0.94 Tetratricopeptide repeat
+TPR_6                PF13174.6     33 PFLU0735             -            552   1.7e-15   56.5  36.9   1   2   9.2e-05      0.14   12.9   0.0     6    32   476   502   471   502 0.93 Tetratricopeptide repeat
+TPR_6                PF13174.6     33 PFLU0735             -            552   1.7e-15   56.5  36.9   2   2     7e-05       0.1   13.3   0.0     5    33   508   536   504   536 0.92 Tetratricopeptide repeat
+Coatomer_E           PF04733.14   290 PFLU0735             -            552   1.4e-05   24.6   8.4   1   1   1.7e-07   0.00026   20.5   2.3    52   242   116   306    68   324 0.72 Coatomer epsilon subunit
+DUF1120              PF06551.12   116 PFLU1008             -            193   1.2e-13   51.2   0.2   1   1   9.2e-17   1.7e-12   47.6   0.0     1    68     5    72     5    81 0.94 Protein of unknown function (DUF1120)
+DUF1120              PF06551.12   116 PFLU1014             -            183     4e-15   56.0   0.6   1   1   2.2e-18   3.9e-14   52.8   0.0     1    68     5    72     5    76 0.97 Protein of unknown function (DUF1120)
+Fimbrial             PF00419.20   154 PFLU1091             -            148   1.2e-16   61.3   2.7   1   1   8.1e-21   1.5e-16   61.1   2.7     1   154     4   148     4   148 0.88 Fimbrial protein
+Fimbrial             PF00419.20   154 PFLU1612             -            165   1.4e-15   57.9   9.6   1   1   3.1e-18   5.5e-14   52.7   9.6     1   141     4   140     4   165 0.87 Fimbrial protein
+NMT1                 PF09084.11   216 PFLU3721             -            290   8.6e-16   58.5   0.0   1   1   3.7e-19   1.1e-15   58.2   0.0    54   216    64   223    40   223 0.84 NMT1/THI5 like
+OpuAC                PF04069.12   257 PFLU3721             -            290   6.8e-11   42.2   0.3   1   1   3.4e-14     1e-10   41.7   0.3    22   222    25   204    22   225 0.87 Substrate binding domain of ABC-type glycine betaine transport system
+SBP_bac_3            PF00497.20   225 PFLU3721             -            290   1.1e-08   34.8   0.0   1   1   9.9e-12     3e-08   33.4   0.0    86   217    85   217    22   221 0.76 Bacterial extracellular solute-binding proteins, family 3
+NMT1_2               PF13379.6    253 PFLU3721             -            290   2.2e-08   34.1   0.1   1   1     1e-11   3.1e-08   33.6   0.1    38   245    35   224    14   228 0.78 NMT1-like family
+Phosphonate-bd       PF12974.7    243 PFLU3721             -            290   2.6e-07   30.5   0.2   1   1   1.1e-10   3.4e-07   30.1   0.2    41   171    42   165    22   195 0.76 ABC transporter, phosphonate, periplasmic substrate-binding protein
+NMT1_3               PF16868.5    289 PFLU3721             -            290     4e-07   29.7   0.0   1   1   6.9e-10   2.1e-06   27.4   0.0    94   167    87   158    77   173 0.91 NMT1-like family
+NMT1                 PF09084.11   216 PFLU4087             -            290   1.6e-15   57.6   0.0   1   1   7.9e-19   2.4e-15   57.1   0.0    23   205    34   212    11   221 0.82 NMT1/THI5 like
+SBP_bac_3            PF00497.20   225 PFLU4087             -            290   3.7e-12   46.2   0.0   1   1   3.7e-13   1.1e-09   38.1   0.0    85   194    85   193    79   216 0.83 Bacterial extracellular solute-binding proteins, family 3
+NMT1_2               PF13379.6    253 PFLU4087             -            290   1.1e-11   45.0   0.0   1   1   8.1e-15   2.4e-11   43.8   0.0     6   191     3   171     1   227 0.76 NMT1-like family
+NMT1_3               PF16868.5    289 PFLU4087             -            290   9.2e-09   35.1   0.0   1   1   4.8e-11   1.4e-07   31.2   0.0    89   167    83   159    64   176 0.86 NMT1-like family
+Phosphonate-bd       PF12974.7    243 PFLU4087             -            290   4.3e-07   29.8   0.0   1   1   1.8e-10   5.3e-07   29.5   0.0    41   165    44   160    28   236 0.82 ABC transporter, phosphonate, periplasmic substrate-binding protein
+OpuAC                PF04069.12   257 PFLU4087             -            290   1.9e-06   27.7   0.0   1   1   7.4e-10   2.2e-06   27.4   0.0     6   228     8   215     3   244 0.78 Substrate binding domain of ABC-type glycine betaine transport system
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /rhome/avale043/Gen220-Protein-team-1/Pseudomonas/pflr_specific_genes.fasta
+# Target file:     /srv/projects/db/pfam/2018-10-18-Pfam32.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout pflr_specific.domtbl --cut_ga --cpu 24 /srv/projects/db/pfam/2018-10-18-Pfam32.0/Pfam-A.hmm /rhome/avale043/Gen220-Protein-team-1/Pseudomonas/pflr_specific_genes.fasta 
+# Current dir:     /rhome/avale043/Gen220-Protein-team-1/PFAM
+# Date:            Fri Dec  6 09:11:27 2019
+# [ok]

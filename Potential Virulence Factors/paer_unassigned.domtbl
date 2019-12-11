@@ -1,0 +1,89 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Zn_protease          PF05618.11   138 PA0457               -            147   2.7e-49  166.6   0.0   1   1   1.7e-53     3e-49  166.4   0.0     1   137     3   139     3   140 0.98 Putative ATP-dependant zinc protease
+DUF2780              PF11075.8    176 PA0460               -            169   1.8e-41  142.2  12.5   1   1   1.1e-45     2e-41  142.0  12.5    19   176     4   155     1   155 0.86 Protein of unknown function VcgC/VcgE (DUF2780)
+Porin_5              PF16930.5    533 PA0696               -            542  3.7e-224  745.2   0.1   1   1  2.3e-228  4.1e-224  745.0   0.1     1   533     6   542     6   542 0.96 Putative porin
+YkuD                 PF03734.14   146 PA0732               -            327   7.1e-21   75.2   0.0   1   1   1.1e-22     2e-18   67.2   0.0     3   146    39   147    37   147 0.86 L,D-transpeptidase catalytic domain
+Alkyl_sulf_dimr      PF14863.6    139 PA0740               -            640   4.3e-56  189.2   0.5   1   1   1.7e-59   7.5e-56  188.4   0.5     1   139   363   501   363   501 0.98 Alkyl sulfatase dimerisation
+Lactamase_B          PF00753.27   197 PA0740               -            640   3.3e-48  164.3   0.0   1   1   1.2e-51   5.5e-48  163.6   0.0     1   197   100   326   100   326 0.99 Metallo-beta-lactamase superfamily
+Alkyl_sulf_C         PF14864.6    126 PA0740               -            640   7.6e-33  113.5   0.0   1   1   3.2e-36   1.4e-32  112.6   0.0     2   126   511   634   510   634 0.99 Alkyl sulfatase C-terminal
+Lactamase_B_2        PF12706.7    201 PA0740               -            640   9.7e-07   28.5   0.0   1   1   3.8e-10   1.7e-06   27.7   0.0     2    70   116   186   115   212 0.74 Beta-lactamase superfamily domain
+DUF4124              PF13511.6     56 PA0912               -            160   1.2e-06   28.7   0.1   1   1   1.3e-10   2.4e-06   27.8   0.1    13    49     1    37     1    52 0.91 Domain of unknown function (DUF4124)
+PD40                 PF07676.12    38 PA0972               -            410   6.2e-47  156.7   1.8   1   4   2.1e-10   9.6e-07   28.6   0.0    10    38   178   205   170   205 0.88 WD40-like Beta Propeller Repeat
+PD40                 PF07676.12    38 PA0972               -            410   6.2e-47  156.7   1.8   2   4   1.7e-16   7.8e-13   48.0   0.0     2    38   214   249   213   249 0.97 WD40-like Beta Propeller Repeat
+PD40                 PF07676.12    38 PA0972               -            410   6.2e-47  156.7   1.8   3   4   4.2e-17   1.9e-13   50.0   0.1     1    37   257   292   257   293 0.97 WD40-like Beta Propeller Repeat
+PD40                 PF07676.12    38 PA0972               -            410   6.2e-47  156.7   1.8   4   4   9.6e-06     0.043   13.8   0.0     4    32   350   378   347   380 0.84 WD40-like Beta Propeller Repeat
+TolB_N               PF04052.13   106 PA0972               -            410   1.9e-30  105.2   0.0   1   1   1.5e-33   6.6e-30  103.4   0.0     3   106     3   104     2   104 0.97 TolB amino-terminal domain
+FlgI                 PF02119.16   343 PA1084               -            346  3.5e-146  486.6   3.5   1   1  2.2e-150  3.9e-146  486.4   3.5     1   343     1   345     1   345 0.99 Flagellar P-ring protein
+Gcw_chp              PF09694.10   230 PA1106               -            216   2.9e-14   53.6   0.1   1   1     3e-18   5.4e-14   52.7   0.1    34   219    34   204    21   215 0.75 Bacterial protein of unknown function (Gcw_chp)
+DLH                  PF01738.18   217 PA1166               -            243   4.7e-46  157.1   0.1   1   1   8.7e-50   5.2e-46  156.9   0.1    11   216    27   239    16   240 0.93 Dienelactone hydrolase family
+SLT_2                PF13406.6    291 PA1171               -            379  4.6e-104  347.7   0.0   1   1  6.4e-108  5.8e-104  347.4   0.0     2   291     6   297     5   297 0.98 Transglycosylase SLT domain
+PG_binding_1         PF01471.18    57 PA1171               -            379   4.5e-11   42.8   1.2   1   1   6.9e-15   6.2e-11   42.4   0.2     4    57   320   374   317   374 0.96 Putative peptidoglycan binding domain
+NapB                 PF03892.14   127 PA1173               -            142     2e-46  157.1   0.3   1   1   1.4e-50   2.4e-46  156.8   0.3    20   126    19   125    10   126 0.96 Nitrate reductase cytochrome c-type subunit (NapB)
+OMP_b-brl            PF13505.6    178 PA1178               -            177   1.6e-09   38.1   4.9   1   1   1.2e-13   2.1e-09   37.8   4.9    57   178    39   177     4   177 0.79 Outer membrane protein beta-barrel domain
+G_glu_transpept      PF01019.21   512 PA1338               -            532  2.5e-175  584.1   0.1   1   1  1.6e-179  2.8e-175  584.0   0.1     2   512    20   525    19   525 0.98 Gamma-glutamyltranspeptidase
+Hydrolase_4          PF12146.8    239 PA1680               -            304   1.1e-14   54.2   0.0   1   1   5.9e-14   3.5e-10   39.5   0.0    22   109    60   147    54   181 0.85 Serine aminopeptidase, S33
+Abhydrolase_6        PF12697.7    220 PA1680               -            304   2.1e-10   41.6   3.0   1   1   5.4e-14   3.2e-10   41.0   3.0     1   211    34   263    34   270 0.58 Alpha/beta hydrolase family
+Pentapeptide         PF00805.22    40 PA1981               -            196   1.4e-41  139.7  19.8   1   4   4.3e-13   2.6e-09   36.6   2.9     1    37    23    59    18    60 0.59 Pentapeptide repeats (8 copies)
+Pentapeptide         PF00805.22    40 PA1981               -            196   1.4e-41  139.7  19.8   2   4   4.1e-15   2.5e-11   43.0   2.1     1    36    53    88    53    89 0.83 Pentapeptide repeats (8 copies)
+Pentapeptide         PF00805.22    40 PA1981               -            196   1.4e-41  139.7  19.8   3   4   3.3e-12     2e-08   33.7   0.1     1    40   108   147   100   147 0.99 Pentapeptide repeats (8 copies)
+Pentapeptide         PF00805.22    40 PA1981               -            196   1.4e-41  139.7  19.8   4   4   8.9e-14   5.3e-10   38.7   0.4     1    40   148   187   148   187 0.98 Pentapeptide repeats (8 copies)
+Pentapeptide_4       PF13599.6     77 PA1981               -            196   1.6e-17   63.5   0.0   1   2   4.5e-10   2.7e-06   27.4   0.0     8    70    25    87    11    94 0.90 Pentapeptide repeats (9 copies)
+Pentapeptide_4       PF13599.6     77 PA1981               -            196   1.6e-17   63.5   0.0   2   2   1.4e-11   8.4e-08   32.3   0.0     2    66   124   188   123   189 0.97 Pentapeptide repeats (9 copies)
+Fimbrial             PF00419.20   154 PA2128               -            157   1.3e-10   41.8   3.9   1   1     8e-15   1.4e-10   41.6   3.9     1   153     3   156     3   157 0.81 Fimbrial protein
+Arylsulfotrans       PF05935.11   381 PA2336               -            425     3e-23   82.4   0.0   1   1   1.1e-26   9.5e-23   80.7   0.0    66   344    82   357    14   390 0.77 Arylsulfotransferase (ASST)
+Arylsulfotran_2      PF14269.6    299 PA2336               -            425   5.7e-19   68.6   0.0   1   1     1e-22   9.2e-19   67.9   0.0    28   297    91   371    79   373 0.80 Arylsulfotransferase (ASST)
+DUF3327              PF11806.8    122 PA2452               -            287   1.4e-19   71.0   1.8   1   1   1.5e-23   2.7e-19   70.1   1.8     1   121   150   260   150   261 0.92 Domain of unknown function (DUF3327)
+SNase                PF00565.17   108 PA2750               -            153   3.6e-07   30.6   0.0   1   1   2.5e-11   4.4e-07   30.3   0.0    18   107    42   140    22   141 0.88 Staphylococcal nuclease homologue
+Ecotin               PF03974.13   122 PA2755               -            136   3.7e-51  172.2   0.0   1   1   2.3e-55   4.2e-51  172.1   0.0     3   122     6   126     4   126 0.98 Ecotin
+Reprolysin_3         PF13582.6    124 PA2783               -            578   4.4e-25   88.6   0.1   1   1   1.5e-28   6.9e-25   88.0   0.1     2   124    25   154    24   154 0.93 Metallo-peptidase family M12B Reprolysin-like
+Reprolysin_4         PF13583.6    203 PA2783               -            578   1.5e-16   60.7   0.1   1   1   7.7e-20   3.5e-16   59.5   0.1     3   197     2   220     1   225 0.72 Metallo-peptidase family M12B Reprolysin-like
+CBM_4_9              PF02018.17   138 PA2783               -            578   3.9e-16   59.6   0.0   1   1   3.7e-13   1.7e-09   38.1   0.0     7   133   437   562   435   567 0.86 Carbohydrate binding domain
+Reprolysin_5         PF13688.6    196 PA2783               -            578   4.6e-15   56.3   0.1   1   1   1.7e-18   7.5e-15   55.6   0.1     3   169     2   164     1   200 0.74 Metallo-peptidase family M12
+Peptidase_M20        PF01546.28   207 PA2787               -            387     2e-31  109.3   0.0   1   1   4.1e-35   2.5e-31  109.0   0.0     1   206    82   382    82   383 0.88 Peptidase family M20/M25/M40
+M20_dimer            PF07687.14   109 PA2787               -            387   4.9e-20   71.5   0.0   1   1   1.5e-23   8.7e-20   70.7   0.0     2   107   184   284   183   286 0.93 Peptidase dimerisation domain
+Peptidase_M28        PF04389.17   198 PA2787               -            387   4.4e-09   36.3   0.0   1   1   1.2e-12   7.1e-09   35.6   0.0     1    85    68   162    68   196 0.90 Peptidase family M28
+Peptidase_M28        PF04389.17   198 PA2939               -            511   6.2e-46  156.6   0.0   1   1     1e-49     9e-46  156.1   0.0     1   195   252   464   252   467 0.95 Peptidase family M28
+PA                   PF02225.22    89 PA2939               -            511   1.5e-16   60.2   1.0   1   1   3.4e-20     3e-16   59.2   1.0     1    88   130   228   130   229 0.88 PA domain
+CsiV                 PF10972.8    251 PA3003               -            188   8.8e-23   81.3   0.1   1   1   8.5e-24   1.5e-19   70.7   0.1    86   250    35   152     2   153 0.87 Peptidoglycan-binding protein, CsiV
+LprI                 PF07007.12   103 PA3021               -            104     4e-14   53.1   0.8   1   1   2.2e-18     4e-14   53.1   0.8    13   103    13    87     3    87 0.86 Lysozyme inhibitor LprI
+Chlorophyllase2      PF12740.7    254 PA3076               -            337     1e-13   50.8   0.0   1   1   2.5e-17   1.5e-13   50.3   0.0     7   130    39   166    34   174 0.83 Chlorophyllase enzyme
+Abhydrolase_3        PF07859.13   211 PA3076               -            337   1.7e-07   31.3   0.2   1   1   4.2e-11   2.5e-07   30.8   0.2     2   113    55   168    54   203 0.82 alpha/beta hydrolase fold
+Chlorophyllase       PF07224.11   307 PA3076               -            337   1.1e-06   27.9   0.0   1   1   2.6e-10   1.6e-06   27.4   0.0    42   147    47   151    34   172 0.75 Chlorophyllase
+HHH_3                PF12836.7     65 PA3140               -             86   2.7e-20   72.4   0.0   1   1   5.2e-24   3.1e-20   72.2   0.0     3    64    21    83    19    84 0.95 Helix-hairpin-helix motif
+T2SSK                PF03934.13   280 PA3140               -             86   6.5e-05   22.5   0.1   1   1   2.3e-08   0.00014   21.4   0.1   171   230    11    70     4    85 0.80 Type II secretion system (T2SS), protein K
+Porin_O_P            PF07396.11   359 PA3280               -            413  5.7e-108  361.3  17.4   1   1  3.6e-112  6.4e-108  361.1  17.4     1   359    28   413    28   413 0.99 Phosphate-selective porin O and P
+ALGX                 PF16822.5    268 PA3546               -            447   1.5e-84  283.9   0.0   1   1   2.2e-88   1.9e-84  283.5   0.0     1   267    37   298    37   299 0.98 SGNH hydrolase-like domain, acetyltransferase AlgX
+CBM_26               PF16824.5    130 PA3546               -            447   1.4e-57  193.4   0.0   1   1   2.4e-61   2.1e-57  192.9   0.0     1   122   319   438   319   445 0.95 C-terminal carbohydrate-binding module
+QSregVF              PF13652.6    112 PA3611               -            116   8.6e-64  212.6   0.1   1   1   5.3e-68   9.5e-64  212.4   0.1     2   112     1   111     1   111 0.99 Putative quorum-sensing-regulated virulence factor
+PD40                 PF07676.12    38 PA3619               -            307   4.5e-06   26.4   5.4   1   1   7.6e-07     0.014   15.4   0.1    16    37    63    83    45    84 0.84 WD40-like Beta Propeller Repeat
+DUF4197              PF13852.6    201 PA3675               -            206   5.5e-76  254.7   4.1   1   1   3.4e-80   6.1e-76  254.6   4.1     2   201     5   203     4   203 0.99 Protein of unknown function (DUF4197)
+YkuD                 PF03734.14   146 PA3756               -            145   6.8e-19   68.7   0.0   1   1   4.7e-23   8.4e-19   68.4   0.0     4   146    10   143     8   143 0.79 L,D-transpeptidase catalytic domain
+DUF481               PF04338.12   212 PA4390               -            312   1.4e-49  169.0  10.3   1   1   1.2e-53   2.1e-49  168.5  10.3     1   212   105   312   105   312 0.99 Protein of unknown function, DUF481
+DUF2135              PF09906.9     52 PA4487               -            243   3.6e-23   81.6   0.5   1   1   5.6e-26     1e-21   77.0   0.2     1    52   173   228   173   228 0.95 Uncharacterized protein conserved in bacteria (DUF2135)
+PagL                 PF09411.10   134 PA4661               -            149     1e-41  142.2   2.8   1   1   6.4e-46   1.1e-41  142.1   2.8     4   133    13   147    10   148 0.96 Lipid A 3-O-deacylase (PagL)
+DUF4124              PF13511.6     56 PA4697               -            129     2e-10   40.8  11.0   1   1   3.5e-14   6.2e-10   39.2  11.0    14    55     2    46     1    77 0.90 Domain of unknown function (DUF4124)
+DUF2845              PF11006.8     83 PA4736               -             74   5.6e-18   64.8   0.0   1   1   3.7e-22   6.6e-18   64.6   0.0     3    81     1    71     1    73 0.90 Protein of unknown function (DUF2845)
+Abhydrolase_1        PF00561.20   257 PA4813               -            285   9.2e-17   61.5   0.0   1   1   3.2e-20   1.9e-16   60.5   0.0     2   112     9   111     8   123 0.91 alpha/beta hydrolase fold
+Palm_thioest         PF02089.15   242 PA4813               -            285   6.1e-09   36.1   0.0   1   1   1.4e-12   8.5e-09   35.6   0.0     1   106     9   112     9   162 0.80 Palmitoyl protein thioesterase
+Lipase_2             PF01674.18   219 PA4813               -            285   0.00012   21.6   0.0   1   1   3.4e-08   0.00021   20.9   0.0     3    92     9    91     7   121 0.75 Lipase (class 2)
+DUF4124              PF13511.6     56 PA5122               -            154     4e-09   36.7   4.3   1   1   5.9e-13   1.1e-08   35.3   4.3    14    50     1    38     1    56 0.84 Domain of unknown function (DUF4124)
+Peptidase_S41        PF03572.18   166 PA5134               -            412   8.2e-58  194.6   0.1   1   1   2.6e-61   1.2e-57  194.1   0.1     2   166   179   344   178   344 0.98 Peptidase family S41
+PDZ_6                PF17820.1     56 PA5134               -            412   2.9e-17   62.3   0.1   1   1   1.5e-20   6.8e-17   61.1   0.1     2    56    96   150    95   150 0.96 PDZ domain
+PDZ_2                PF13180.6     82 PA5134               -            412     2e-12   47.2   0.3   1   1   1.5e-15   6.7e-12   45.6   0.1     1    74    81   153    81   160 0.88 PDZ domain
+PDZ                  PF00595.24    82 PA5134               -            412     7e-11   42.3   0.2   1   1   3.2e-14   1.4e-10   41.3   0.2     8    81    79   148    71   149 0.84 PDZ domain
+Gly-zipper_Omp       PF13488.6     46 PA5183               -            114   1.6e-10   40.8  63.5   1   1   2.7e-09   1.6e-05   24.8  27.3     2    45    56    98    53    99 0.93 Glycine zipper
+SBP_bac_5            PF00496.22   377 PA5317               -            504   2.3e-87  293.4   0.0   1   1   1.5e-91   2.7e-87  293.2   0.0     1   374    44   420    44   423 0.93 Bacterial extracellular solute-binding proteins, family 5 Middle
+DUF903               PF06004.12    49 PA5526               -             50   1.4e-16   60.1   1.2   1   1   8.3e-21   1.5e-16   60.0   1.2     2    48     2    48     1    49 0.97 Bacterial protein of unknown function (DUF903)
+Beta-lactamase       PF00144.24   330 PA5542               -            386   5.6e-56  190.2   0.6   1   1     4e-60   7.3e-56  189.8   0.6     8   329    67   380    60   381 0.94 Beta-lactamase
+#
+# Program:         hmmscan
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      /rhome/avale043/Gen220-Protein-team-1/PFAM/paer_genes/unassigned/paer_unassigned_sequences.fasta
+# Target file:     /srv/projects/db/pfam/2018-10-18-Pfam32.0/Pfam-A.hmm
+# Option settings: hmmscan --domtblout paer_unassigned.domtbl --cut_ga --cpu 24 /srv/projects/db/pfam/2018-10-18-Pfam32.0/Pfam-A.hmm /rhome/avale043/Gen220-Protein-team-1/PFAM/paer_genes/unassigned/paer_unassigned_sequences.fasta 
+# Current dir:     /rhome/avale043/Gen220-Protein-team-1/PFAM
+# Date:            Fri Dec  6 09:19:40 2019
+# [ok]
